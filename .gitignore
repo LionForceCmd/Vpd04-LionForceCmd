@@ -1,0 +1,15 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Секреты и ключи
+.env
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
